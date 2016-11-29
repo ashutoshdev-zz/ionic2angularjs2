@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./",
+    "sourceMap": false,
+    "declaration": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+	"bundles",
+	"node_modules",
+    "typings/browser",
+    "typings/browser.d.ts"
+  ]
+}
